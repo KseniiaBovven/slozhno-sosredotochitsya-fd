@@ -191,7 +191,7 @@
 }
 
 .card__link:hover {
-  border-block-end: 1px solid currentColor; 
+  border-block-end: 1px solid currentColor;
 }
 
 .card__subtitle {
