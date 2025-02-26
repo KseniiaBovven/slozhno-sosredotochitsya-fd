@@ -55,7 +55,7 @@
     --link-underline-hover: underline 1px #353430;
   }
 
-  .theme-light .header__rec {
+  .header__rec {
     display: none;
   }
 }

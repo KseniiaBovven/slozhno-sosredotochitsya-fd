@@ -31,3 +31,7 @@
   background-color: var(--main-color, #000028);
   background-image: var(--back-image, url(../images/cover-image-dark.png));
 }
+
+.theme-dark .header__rec {
+  display: block;
+}
