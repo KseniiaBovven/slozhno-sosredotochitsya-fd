@@ -305,12 +305,12 @@
     gap: 20px;
   }
 
-  .horizontal {
-    grid-column: span 2;
-  }
-
   .vertical {
     grid-row: span 2;
+  }
+
+  .horizontal {
+    grid-column: span 2;
   }
 
   .card__image {
