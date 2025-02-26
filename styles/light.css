@@ -42,17 +42,15 @@
     --accent-color: #ff8dcb;
     --card-title-color: #000028;
     --main-color: #fff1f7;
-    --header__theme-menu-button-color: #353430;
+    --header-theme-menu-button-color: #353430;
     --card-text-color: #353430;
     --content-title-color: #353430;
     --text-shadow: 4px 4px 0 #ff8dcb;
     --border: 1px solid #353430;
     --title-color: #ffc2e6;
     --card-link-shadow: 2px 1px 0 #ff8dcb;
-    --button-underline-focus: underline 1px #353430;
     --button-border-hover: 1px solid rgba(50, 49, 45, 0.4);
     --link-border-focus: 1px solid #353430;
-    --link-underline-hover: underline 1px #353430;
   }
 
   .header__rec {

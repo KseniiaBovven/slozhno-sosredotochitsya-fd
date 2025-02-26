@@ -13,17 +13,15 @@
   --accent-color: #ff0070;
   --card-title-color: #000028;
   --main-color: #000028;
-  --header__theme-menu-button-color: #ff0070;
+  --header-theme-menu-button-color: #ff0070;
   --card-text-color: #f1b2ce;
   --content-title-color: #ff0070;
   --text-shadow: 4px 4px 0 #ff0070;
   --border: 1px solid var(--accent-color, #ff0070);
   --title-color: #db00ff;
   --card-link-shadow: 2px 1px 0 #ff0070;
-  --button-underline-focus: underline 1px #ff0070;
   --button-border-hover: 1px solid rgba(255, 0, 112, 0.4);
   --link-border-focus: 1px solid #f1b2ce;
-  --link-underline-hover: underline 1px #f1b2ce;
 }
 
 .theme-dark .page {
